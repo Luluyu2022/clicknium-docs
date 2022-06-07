@@ -5,7 +5,7 @@
         window_mode: Literal["auto", "topmost", "noaction"] = WindowMode.Auto
     ) -> UiElement***  
 
-Initialize ui element by the given locator.  
+Initialize UI element by the given locator.  
 
 **Parameters:**  
     &emsp;**locator[Required]**: str | _Locator   

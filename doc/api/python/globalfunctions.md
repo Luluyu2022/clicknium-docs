@@ -1,4 +1,4 @@
-# Global functions
+# Global Functions
 **Global functions provides methods over UI element, and driver for different types of applications.**
 
 - import

@@ -1,1 +1,1 @@
-# MailTo: clicknium@clickcorp.com
+# MailTo: clicknium@clickcorp.com; @clickcorp
